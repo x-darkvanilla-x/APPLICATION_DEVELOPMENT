@@ -12,7 +12,9 @@ A simple stopwatch component built using React Native.
 - Displays time in hours, minutes, seconds, and milliseconds
 - Background image customization
 
-
+<br>
+<br>
+<br>
 
 # React Native Calculator
 
