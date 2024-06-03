@@ -1,6 +1,8 @@
-![Image](Stopwatch.png)
+
 
 # React Native Stopwatch
+
+![Image](Stopwatch.png)
 
 A simple stopwatch component built using React Native.
 
@@ -10,9 +12,11 @@ A simple stopwatch component built using React Native.
 - Displays time in hours, minutes, seconds, and milliseconds
 - Background image customization
 
-![Image](Calculator.png)
+
 
 # React Native Calculator
+
+![Image](Calculator.png)
 
 A simple calculator app built using React Native.
 
