@@ -1,1 +1,1 @@
-![Image](.Stopwatch.png)
+![Image](Stopwatch.png)
