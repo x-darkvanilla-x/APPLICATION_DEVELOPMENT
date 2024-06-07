@@ -27,3 +27,12 @@ A simple calculator app built using React Native.
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Percentage calculation
 - Clear and backspace functionality
+
+
+<br>
+<br>
+<br>
+
+# React Native Quote
+
+![Image](./assets/QuoteApp.png)
