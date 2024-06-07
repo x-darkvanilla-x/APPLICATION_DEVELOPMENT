@@ -2,7 +2,7 @@
 
 # React Native Stopwatch
 
-![Image](assests/Stopwatch.png)
+![Image](./assets/Stopwatch.png)
 
 A simple stopwatch component built using React Native.
 
@@ -18,7 +18,7 @@ A simple stopwatch component built using React Native.
 
 # React Native Calculator
 
-![Image](assests/Calculator.png)
+![Image](./assets/Calculator.png)
 
 A simple calculator app built using React Native.
 
