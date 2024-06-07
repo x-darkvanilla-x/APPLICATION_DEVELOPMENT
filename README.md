@@ -53,7 +53,7 @@ A simple quote app built with React Native, React Native Paper, and Expo. It fet
 
 # React Native Tic Tac Toe App
 
-![Image](./assets/QuoteApp.png)
+![Image](./assets/TicTacToe.png)
 
 A classic Tic Tac Toe game built with React Native and React Native Paper. Players can take turns to mark the cells, and the game will determine the winner or declare a draw.
 
