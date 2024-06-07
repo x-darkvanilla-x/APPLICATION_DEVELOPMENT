@@ -71,6 +71,7 @@ A classic Tic Tac Toe game built with React Native and React Native Paper. Playe
 # React Native Scanner App
 
 ![Image](./assets/ScannerApp.png)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7204785159869517824" height="991" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 A simple QR code scanner app built with React Native, Expo Camera, and Expo Clipboard. It allows you to scan QR codes, copy the scanned content to your clipboard, and open the scanned URL in a browser.
 
@@ -79,3 +80,5 @@ A simple QR code scanner app built with React Native, Expo Camera, and Expo Clip
 - QR Code Scanner: Scan QR codes using your device's camera.
 - Copy to Clipboard: Copy the scanned URL to your device's clipboard.
 - Open in Browser: Open the scanned URL in your device's default web browser.
+
+
