@@ -55,6 +55,13 @@ A simple quote app built with React Native, React Native Paper, and Expo. It fet
 
 ![Image](./assets/QuoteApp.png)
 
+A classic Tic Tac Toe game built with React Native and React Native Paper. Players can take turns to mark the cells, and the game will determine the winner or declare a draw.
+
+## Key Features
+- Two-player game: Players X and O take turns to play.
+- Winner Detection: Automatically detects the winner and displays a message.
+- Draw Detection: Detects a draw when all cells are filled without a winner.
+- Reset Game: Allows players to reset the game and start over.
 
 
 <br>
@@ -64,3 +71,11 @@ A simple quote app built with React Native, React Native Paper, and Expo. It fet
 # React Native Scanner App
 
 ![Image](./assets/QuoteApp.png)
+
+A simple QR code scanner app built with React Native, Expo Camera, and Expo Clipboard. It allows you to scan QR codes, copy the scanned content to your clipboard, and open the scanned URL in a browser.
+
+## Key Features
+
+- QR Code Scanner: Scan QR codes using your device's camera.
+- Copy to Clipboard: Copy the scanned URL to your device's clipboard.
+- Open in Browser: Open the scanned URL in your device's default web browser.
