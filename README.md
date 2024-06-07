@@ -87,9 +87,9 @@ A simple QR code scanner app built with React Native, Expo Camera, and Expo Clip
 <br>
 
 
-# React Native T0 Do List App
+# React Native To Do List App
 
-![Image](./assets/ScannerApp.png)
+![Image](./assets/ToDoList.png)
 
 The ToDoList component is a simple task management feature for your React Native application. It allows users to add, remove, and mark tasks as completed.
 
